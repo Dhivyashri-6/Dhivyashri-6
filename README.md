@@ -17,23 +17,6 @@ I'm Dhivyashri K K, a  B.Tech Information Technology student at Kongu Engineerin
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/k-k-dhivyashri-a76988291/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Dhivyashri-IT/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:kkdhivyashri@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
 
 ## 🏆 Certifications & Achievements
 
@@ -47,48 +30,6 @@ I'm Dhivyashri K K, a  B.Tech Information Technology student at Kongu Engineerin
 
 ---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-### 🎨 UI/UX
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-
----
-
-## 🚀 Featured Projects
-
-### 🎙 VoiceScript – Transforming India's Oral Tradition
-Real-time speech transcription & translation web app with downloadable captions.  
-🔗 https://github.com/Dhivyashri-6/voicescript.git
-
-### 💰 Crowdfunding Platform (MERN + Blockchain)
-Decentralized fundraising platform with secure transactions & transparent fund tracking.  
-🔗 https://blood-donation-platform-xi.vercel.app/
-
-### 🏢 Startup Registration Portal (MERN)
-Web-based startup management system with secure authentication & seamless UX.  
-🔗 https://github.com/Dhivyashri6/Startup_Registration_portal.git
-
----
 
 ## 📊 GitHub Stats
 
@@ -103,15 +44,4 @@ Web-based startup management system with secure authentication & seamless UX.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dhivyashri-IT?theme=dark&font=Baloo)
 
 ---
-
-## 🌱 Areas of Interest
-
-- Full Stack Development  
-- Cloud Computing  
-- DevOps  
-- Machine Learning  
-- System Design  
-
----
-
 ⭐️ From Dhivyashri K K
