@@ -29,19 +29,4 @@ I'm Dhivyashri K K, a  B.Tech Information Technology student at Kongu Engineerin
 [![Infosys DBMS](https://img.shields.io/badge/Infosys-DBMS_Certified-blue?style=for-the-badge)](ADD_YOUR_INFOSYS_CERT_LINK_HERE)
 
 ---
-
-
-## 📊 GitHub Stats
-
-![Dhivyashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhivyashri-6&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyashri-6&layout=compact&theme=radical)
-
----
-
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dhivyashri-IT?theme=dark&font=Baloo)
-
----
 ⭐️ From Dhivyashri K K
