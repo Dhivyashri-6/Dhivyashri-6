@@ -2,21 +2,17 @@
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | MERN Stack Developer</h3>
 
 ---
-
 ## 👩‍💻 About Me
 
 I'm Dhivyashri K K, a  B.Tech Information Technology student at Kongu Engineering College (CGPA: 9.28).
 
-💡 I specialize in Full Stack Development (MERN Stack) and have built scalable real-world applications including a real-time speech transcription system and a decentralized crowdfunding platform.
+💡 I specialize in Full Stack Development (MERN Stack) and have built scalable real-world applications.
 
 ☁️ Certified MongoDB Associate Developer and Oracle APEX Cloud Practitioner with strong interest in Cloud Computing, DevOps, and System Design.
 
 🏆 SIH Internal Hackathon Winner | Academic Excellence Award (Top 5%)
 
-🚀 Passionate about transforming innovative ideas into impactful digital solutions.
-
 ---
-
 
 ## 🏆 Certifications & Achievements
 
@@ -24,9 +20,6 @@ I'm Dhivyashri K K, a  B.Tech Information Technology student at Kongu Engineerin
 
 [![MongoDB Certified](https://img.shields.io/badge/MongoDB-Certified_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](ADD_YOUR_MONGODB_CERT_LINK_HERE)
 
-[![Oracle APEX Certified](https://img.shields.io/badge/Oracle-APEX_Cloud_Practitioner-F80000?style=for-the-badge&logo=oracle&logoColor=white)](ADD_YOUR_ORACLE_CERT_LINK_HERE)
-
 [![Infosys DBMS](https://img.shields.io/badge/Infosys-DBMS_Certified-blue?style=for-the-badge)](ADD_YOUR_INFOSYS_CERT_LINK_HERE)
 
 ---
-⭐️ From Dhivyashri K K
